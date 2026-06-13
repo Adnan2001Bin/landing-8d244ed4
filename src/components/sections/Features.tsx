@@ -39,7 +39,7 @@ export function Features() {
         <section className="py-24 bg-white dark:bg-gray-950 transition-colors" data-jc-id="Z959NE">
             <div className="container mx-auto px-4 lg:px-8" data-jc-id="Z95ACI">
                 <div className="text-center max-w-2xl mx-auto" data-jc-id="Z95B0I">
-                    <h2 className="text-4xl font-bold text-gray-900 dark:text-white" data-jc-id="Z95B6I">Everything You Need to Sell</h2>
+                    <h2 className="text-4xl font-bold dark:text-white text-red-400" data-jc-id="Z95B6I">Everything You Need to Sellasdf</h2>
                     <p className="mt-4 text-xl text-gray-600 dark:text-gray-300" data-jc-id="Z95BYB">
                         All the tools and features you need to run a successful online store.
                     </p>
