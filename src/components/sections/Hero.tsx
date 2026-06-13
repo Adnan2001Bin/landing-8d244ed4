@@ -41,15 +41,7 @@ export function Hero() {
                     </motion.h1>
 
                     {/* Subheadline */}
-                    <motion.p
-                        className="mt-4 md:mt-6 text-lg md:text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto leading-relaxed px-4"
-                        initial={{ opacity: 0, y: 20 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        transition={{ duration: 0.5, delay: 0.2 }}
-                    data-jc-id="CZLQN7">
-                        Build beautiful e-commerce stores without coding.
-                        Choose a template, customize it, and start selling today.
-                    </motion.p>
+                    <motion.p className="mt-4 md:mt-6 text-lg md:text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto leading-relaxed px-4" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: 0.2 }} data-jc-id="CZLQN7">Build beautiful e-commerce stores without coding. Choose a template, customize it, and start selling today.asdfe aerer</motion.p>
 
                     {/* CTA Buttons */}
                     <motion.div
